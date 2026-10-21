@@ -19,7 +19,7 @@
 - 🏗️ **6+ years** building and scaling production B2B SaaS across fintech, real estate, blockchain, and product-authentication.
 - 🎓 Finishing an **M.Sc. in Data Science** (LLMs, Retrieval-Augmented Generation, Python).
 - 🤖 Use generative AI daily (Claude, GitHub Copilot, GPT) to move faster without giving up code quality.
-- 📍 Milan, Italy. **Available from December 2026** for Senior Full-Stack, Product, Frontend, Backend and AI Full-Stack roles: on-site or hybrid in Milan, or remote across the EU. Full-time, or contract via Italian Partita IVA.
+- 📍 Milan, Italy. Open to Senior Full-Stack, Product, Frontend, Backend and AI Full-Stack roles: on-site or hybrid in Milan, or remote across the EU. Full-time, or contract via Italian Partita IVA.
 
 ---
 
