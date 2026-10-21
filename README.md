@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nouman 👋</h1>
-<h3 align="center">Senior Full-Stack / Product Engineer · Node.js (NestJS) · React & Next.js (TypeScript) · PostgreSQL · AWS</h3>
+<h3 align="center">Senior Full-Stack Engineer · Product-minded · React & Next.js · Node.js & NestJS · TypeScript · PostgreSQL · AWS · LLM & RAG apps</h3>
 
 <p align="center">
   <a href="https://nouman-rana.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-nouman--rana.is--a.dev-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
