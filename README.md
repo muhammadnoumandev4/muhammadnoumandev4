@@ -63,6 +63,11 @@
 
 ## 📌 Featured Work
 
+### 🌱 DPP Platform — Independent Project
+*Public code sample*
+A full-stack Digital Product Passport platform, built on my own time — a public look at my code since the employer projects above are private.
+`NestJS` `Next.js` `PostgreSQL` `Redis` · [github.com/muhammadnoumandev4/dpp-platform](https://github.com/muhammadnoumandev4/dpp-platform)
+
 ### 🪪 Authentica — Digital Product Passport SaaS
 *iOS · Android · Web — live, paying customers*
 Primary backend author (NestJS + PostgreSQL). Led a zero-downtime migration off a legacy serverless MVP and built a self-healing account-recovery flow that saved the large majority of accounts from lockout. Unified billing across Stripe, the App Store, and Google Play into one subscription state.
@@ -78,10 +83,6 @@ Own the rewards/analytics area and blockchain-sync reliability across a NestJS m
 Own tap verification, device locking, the ownership-claim system, and background bulk processing. Built a repair job that reconciles on-chain and database claim status with zero incorrect corrections.
 `NestJS` `Next.js` `Ethers.js` `AWS S3` · [Product guide](https://info.wovlabs.com)
 
-### 🌱 DPP Platform — Independent Project
-*Public code sample*
-A full-stack Digital Product Passport platform, built on my own time — a public look at my code since the employer projects above are private.
-`NestJS` `Next.js` `PostgreSQL` `Redis` · [github.com/muhammadnoumandev4/dpp-platform](https://github.com/muhammadnoumandev4/dpp-platform)
 
 ### 🧭 Career Intelligence Assistant — RAG
 *Public code sample*
