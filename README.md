@@ -15,11 +15,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently the **primary backend author** on a multi-tenant Digital Product Passport SaaS — led a zero-downtime migration off a legacy serverless MVP and unified billing across Stripe, the App Store, and Google Play.
+- 🔭 **Primary backend author** on a multi-tenant Digital Product Passport SaaS — led a zero-downtime migration off a legacy serverless MVP and unified billing across Stripe, the App Store, and Google Play.
 - 🏗️ **6+ years** building and scaling production B2B SaaS across fintech, real estate, blockchain, and product-authentication.
 - 🎓 Finishing an **M.Sc. in Data Science** (LLMs, Retrieval-Augmented Generation, Python).
 - 🤖 Use generative AI daily (Claude, GitHub Copilot, GPT) to move faster without giving up code quality.
-- 📍 Milan, Italy — open to remote / hybrid roles.
+- 📍 Milan, Italy. **Available from December 2026** for Senior Full-Stack or Backend roles: on-site or hybrid in Milan, or remote across the EU. Full-time, or contract via Italian Partita IVA.
 
 ---
 
@@ -82,6 +82,16 @@ Own tap verification, device locking, the ownership-claim system, and background
 *Public code sample*
 A full-stack Digital Product Passport platform, built on my own time — a public look at my code since the employer projects above are private.
 `NestJS` `Next.js` `PostgreSQL` `Redis` · [github.com/muhammadnoumandev4/dpp-platform](https://github.com/muhammadnoumandev4/dpp-platform)
+
+### 🧭 Career Intelligence Assistant — RAG
+*Public code sample*
+Conversational RAG app that scores a resume against multiple job descriptions, explains skill gaps and preps interviews. Runs fully offline with no API keys, and upgrades to embeddings plus Claude, GPT or Gemini when a key is set. Unit-tested with Vitest and checked in CI.
+`Next.js` `TypeScript` `RAG` `LLM` `Vitest` · [github.com/muhammadnoumandev4/career-intelligence-assistant](https://github.com/muhammadnoumandev4/career-intelligence-assistant)
+
+### 💬 DocuChat AI — Document Q&A
+*Public code sample*
+Upload PDF, DOCX or TXT files and ask questions in a chat. Answers are grounded in the documents with source citations, and documents are processed in a background queue.
+`React` `Express` `MongoDB` `Pinecone` `OpenAI` `Redis` · [github.com/muhammadnoumandev4/docuchat-ai](https://github.com/muhammadnoumandev4/docuchat-ai)
 
 ---
 ## 📊 GitHub Activity
