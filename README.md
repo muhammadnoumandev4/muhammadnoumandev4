@@ -19,7 +19,7 @@
 - 🏗️ **6+ years** building and scaling production B2B SaaS across fintech, real estate, blockchain, and product-authentication.
 - 🎓 Finishing an **M.Sc. in Data Science** (LLMs, Retrieval-Augmented Generation, Python).
 - 🤖 Use generative AI daily (Claude, GitHub Copilot, GPT) to move faster without giving up code quality.
-- 📍 Milan, Italy. **Available from December 2026** for Senior Full-Stack or Backend roles: on-site or hybrid in Milan, or remote across the EU. Full-time, or contract via Italian Partita IVA.
+- 📍 Milan, Italy. **Available from December 2026** for Senior Full-Stack, Product, Frontend, Backend and AI Full-Stack roles: on-site or hybrid in Milan, or remote across the EU. Full-time, or contract via Italian Partita IVA.
 
 ---
 
@@ -65,7 +65,7 @@
 
 ### 🌱 DPP Platform — Independent Project
 *Public code sample*
-A full-stack Digital Product Passport platform, built on my own time — a public look at my code since the employer projects above are private.
+A full-stack Digital Product Passport platform, built on my own time — a public look at my code since the employer projects below are private.
 `NestJS` `Next.js` `PostgreSQL` `Redis` · [github.com/muhammadnoumandev4/dpp-platform](https://github.com/muhammadnoumandev4/dpp-platform)
 
 ### 🪪 Authentica — Digital Product Passport SaaS
